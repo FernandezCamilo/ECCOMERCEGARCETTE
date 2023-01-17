@@ -1,0 +1,60 @@
+.login{
+  font-family: 'Arimo',sans-serif;
+  background-color: rgba(255, 255, 255, 0.1);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 30px;
+  border-radius: 50px;
+  color: white;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+}
+
+input{
+  padding: 15px;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  border-radius: 50px;
+}
+
+button{
+  background-color: rgb(31, 249, 118);
+  width: 100%;
+  padding: 15px;
+  border: none;
+  border-radius: 50px;
+}
+
+button:hover{
+  background-color: rgb(52, 140, 87);
+  cursor: pointer;
+}
+
+div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.herobgcolor {
+  background: linear-gradient(to right, #5B22E8, #FF2362);
+  -webkit-animation: nebulahero 20s infinite linear;
+}
+
+@-webkit-keyframes nebulahero {
+  0% {
+    -webkit-filter: hue-rotate(0deg);
+  }
+
+  100% {
+    -webkit-filter: hue-rotate(-360deg);
+  }
+}

@@ -1,0 +1,18 @@
+[
+    {"id":1,"marca":"Nike","modelo":"Ishod","precio":1400,"img":"nike-ishod.png","descripcion":"skate","stock":10},
+    {"id":2,"marca":"New balance","modelo":"550","precio":1500,"img":"nb-550.png","descripcion":"skate","stock":10},
+    {"id":3,"marca":"Nike","modelo":"Dunk","precio":1800,"img":"nike-dunk.png","descripcion":"skate","stock":10},
+    {"id":4,"marca":"Asics","modelo":"Patriot","precio":1200,"img":"asics.png","descripcion":"skate","stock":10},
+    {"id":5,"marca":"Adidas","modelo":"Messi2014","precio":3000,"img":"adidas-messi2014.png","descripcion":"skate","stock":10},
+    {"id":6,"marca":"Adidas","modelo":"Forum","precio":2000,"img":"adidas-forum.png","descripcion":"skate","stock":10},
+    {"id":7,"marca":"Topper","modelo":"TodoTerreno","precio":900,"img":"toper.png","descripcion":"la mejor","stock":10},
+    {"id":8,"marca":"Puma","modelo":"Diegote","precio":3000,"img":"puma.png","descripcion":"futbol","stock":10},
+    {"id":9,"marca":"Jordan","modelo":"3","precio":3000,"img":"j3.jpg","descripcion":"futbol","stock":10},
+    {"id":10,"marca":"Nike","modelo":"Airmax1","precio":3000,"img":"travis.jpg","descripcion":"futbol","stock":10},
+    {"id":11,"marca":"Adidas","modelo":"Yezzy","precio":3000,"img":"yezzy.jpg","descripcion":"futbol","stock":10},
+    {"id":12,"marca":"Jordan","modelo":"5","precio":3000,"img":"j5.jpg","descripcion":"futbol","stock":10}
+
+
+
+
+]
